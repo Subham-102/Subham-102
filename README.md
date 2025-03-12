@@ -39,8 +39,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-## 🌟 Open Source Contributions:
-[![Hacktoberfest](https://user-images.githubusercontent.com/797940/135707052-650f0405-b586-419f-9044-85c054c67a82.png)](https://hacktoberfest.com/)
+<h2 align="center">🌟 Hacktoberfest 2024 Achievements</h2>
+<p align="center">
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2h3ert517250cl27ctyxc0p">
+    <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm2h3ert517250cl27ctyxc0p" alt="Hacktoberfest Holopin Badge">
+  </a>
+</p>
+
 
 ---
 ## 📊 GitHub Stats:
