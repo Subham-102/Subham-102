@@ -42,7 +42,8 @@
 <h2 align="center">🌟 Hacktoberfest 2024 Achievements</h2>
 <p align="center">
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2h3ert517250cl27ctyxc0p">
-    ![Hacktoberfest Badge](https://raw.githubusercontent.com/Subham-102/Subham-102/main/hacktoberfest_badge.webp)
+    ![Hacktoberfest Badge](https://www.holopin.io/hacktoberfest2024/userbadge/cm2h3ert517250cl27ctyxc0p)
+
 
   </a>
 </p>
@@ -51,7 +52,7 @@
 ---
 ## 📊 GitHub Stats:
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Subham-102&show_icons=true&theme=radical" />
+  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Subham-102&theme=radical" />
 </p>
 
