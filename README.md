@@ -39,7 +39,10 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+## 🌟 Open Source Contributions:
+[![Hacktoberfest](https://user-images.githubusercontent.com/797940/135707052-650f0405-b586-419f-9044-85c054c67a82.png)](https://hacktoberfest.com/)
 
+---
 ## 📊 GitHub Stats:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Subham-102&show_icons=true&theme=radical" />
