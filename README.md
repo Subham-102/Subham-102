@@ -41,11 +41,10 @@
 ---
 <h2 align="center">🌟 Hacktoberfest 2024 Achievements</h2>
 <p align="center">
-  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2h3ert517250cl27ctyxc0p">
-    ![Hacktoberfest Badge](https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp)
+   ![Hacktoberfest Badge](https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp)
 
 
-  </a>
+  
 </p>
 
 
