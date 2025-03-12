@@ -42,7 +42,8 @@
 <h2 align="center">🌟 Hacktoberfest 2024 Achievements</h2>
 <p align="center">
   <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm2h3ert517250cl27ctyxc0p">
-    <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm2h3ert517250cl27ctyxc0p" alt="Hacktoberfest Holopin Badge">
+    ![Hacktoberfest Badge](https://raw.githubusercontent.com/Subham-102/Subham-102/main/hacktoberfest_badge.webp)
+
   </a>
 </p>
 
