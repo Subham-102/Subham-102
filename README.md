@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://subham-102.github.io/Portfolio_website/)
 - 💬 Ask me about **React, JavaScript, SpringBoot, JDBC, MySQL**
 - 📫 How to reach me: **subhamkrshawa21s@gmail.com**
-- 📄 Check out my [Resume](#)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1jueMSrDcrN_Ur6FJSGIYXBlYuemj_y0O/view?usp=drivesdk)
 
 ---
 
